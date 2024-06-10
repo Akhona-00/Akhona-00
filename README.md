@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhona-00
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html,css&javascript
+- 🌱 I’m currently learning html,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: akhonajali063@gmail.com
 - 😄 Pronouns: she/her
