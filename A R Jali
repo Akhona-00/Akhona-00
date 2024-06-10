@@ -1,0 +1,45 @@
+** start of undefined **
+
+<h1 id="title">Fashion Survey</h1>
+<p id="description">Elegence is good taste</p>
+<form id="survey-form">
+<label for="name" id="name-label">Name:</label>
+<input type="text" id="name" name="name" placeholder="Enter your full name"required>
+<label for="email" id="email-label"><br>Email:</label>
+<input type="email" id="email" name="email" placeholder="Enter your email address"required>
+<label for="number" id="number-label"><br>Number:</label>
+<input type="number" id="number" name:"number" min="0" max="100"placeholder="Enter your phone number" required><br>
+<select id="dropdown">
+  <option value="option1">Male</option>
+  <option value="option2">Female</option>"
+</select><br>
+<p>How much do you spend on clothing a month?</p>
+<input type="radio" id="radio1" name="radiogroup" value="option1">
+<label for="radio1">$0-$20</label><br>
+<input type="radio" id="radio2" name="radiogroup" value="option2">
+<label for="radio2">$20-$50</label><br>
+<input type="radio" id="radio3" name="radiogroup" value="option3">
+<label for="radio3">$50-$70</label><br>
+<p>How long do you take to get ready each day?</p>
+<input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
+<label for="checkbox1">0-15 minutes</label><br>
+<input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
+<label for="checkbox2">15-30 minutes</label><br>
+<input type="checkbox" id="checkbox3" name="checkbox3" value="checkbox3">
+<label for="checkbox3">30-45 minutes</label><br>
+<input type="checkbox" id="checkbox4"name="checkbox4" value="checkbox4">
+<label for="checkbox4">45-60 minutes</label><br>
+<label>Tell us about your passion in fashion:<textarea></textarea></label><br>
+<button type="submit" id="submit">Submit</button>
+<h1>Coded by A.R Jali</h1>
+</form>
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
